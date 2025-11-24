@@ -33,11 +33,11 @@ pip install -r requirements.txt
 python -m venv statminer_env
 ```
 #### Activate the environment:
-** Windows
+Windows
 ```
 statminer_env\Scripts\activate
 ```
-** Linux/macOS
+Linux/macOS
 ```
 source statminer_env/bin/activate
 ```
@@ -48,10 +48,12 @@ pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-% ## Files
-% - README.md          : Project documentation
-% - requirements.txt   : Python dependencies
-% - your_code_files.py : Core analysis scripts
+## Files
+ - README.md          : Project documentation
+ - requirements.txt   : Python dependencies
+ - run_StatMiner.py   : Python file to be executed
+ - User_config.py     : User input file
+ - Stat_functions.py  : Python file with all the statistical functions used
 %
 % ## Usage
 % 1. Place your geochemical datasets in the data folder.
