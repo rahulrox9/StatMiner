@@ -26,12 +26,12 @@ Create a virtual environment and activate it:
 ``` python
 python -m venv statminer_env
 ```
-# Windows
+Windows
 ```
 statminer_env\Scripts\activate
 ```
 
-# Linux/macOS
+Linux/macOS
 ```
 source statminer_env/bin/activate
 ```
