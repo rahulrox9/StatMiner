@@ -11,14 +11,15 @@ A Python-based geochemistry data analysis toolkit designed to perform statistica
 git clone https://github.com/rahulrox9/StatMiner.git
 cd StatMiner
 ```
-%
-% ### 2. Using Conda
-% Create and activate a dedicated environment:
-% conda create -n statminer_env python=3.11
-% conda activate statminer_env
-% pip install --upgrade pip
-% pip install -r requirements.txt
-%
+
+### 2. Using Conda
+Create and activate a dedicated environment:
+``` conda
+conda create -n statminer_env python=3.11
+conda activate statminer_env
+pip install --upgrade pip
+pip install -r requirements.txt
+```
 % ### 3. Using standard Python (venv)
 % Create a virtual environment and activate it:
 % python -m venv statminer_env
