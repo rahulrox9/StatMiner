@@ -20,15 +20,23 @@ conda activate statminer_env
 pip install --upgrade pip
 pip install -r requirements.txt
 ```
-% ### 3. Using standard Python (venv)
-% Create a virtual environment and activate it:
-% python -m venv statminer_env
-% # Windows
-% statminer_env\Scripts\activate
-% # Linux/macOS
-% source statminer_env/bin/activate
-%
-% Then install dependencies:
+
+### 3. Using standard Python (venv)
+Create a virtual environment and activate it:
+``` python
+python -m venv statminer_env
+
+# Windows
+```
+statminer_env\Scripts\activate
+```
+
+# Linux/macOS
+```
+source statminer_env/bin/activate
+```
+
+Then install dependencies:
 % pip install --upgrade pip
 % pip install -r requirements.txt
 %
