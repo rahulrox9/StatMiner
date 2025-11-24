@@ -8,7 +8,7 @@ A Python-based geochemistry data analysis toolkit designed to perform statistica
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/StatMiner.git
+git clone https://github.com/rahulrox9/StatMiner.git
 cd StatMiner
 ```
 %
